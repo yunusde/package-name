@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.yunusde.packagename.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.yunusde.packagename.MyBundle
 
 class MyApplicationService {
 
